@@ -1,0 +1,10 @@
+fake-news-detector/
+│
+├── data/
+│   └── fake_or_real_news.csv
+├── models/
+│   └── fake_news_model.pkl
+├── app.py
+├── train_model.py
+├── requirements.txt
+└── README.md
